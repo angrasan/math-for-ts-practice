@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/angrasan/math-for-ts-practice/issues"
   },
-  "homepage": "https://github.com/angrasan/math-for-ts-practice#readme"
+  "homepage": "https://github.com/angrasan/math-for-ts-practice#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
 }
