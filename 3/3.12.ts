@@ -27,3 +27,5 @@ console.log({Z});
 
 console.log(`W, X: ${dot(W, X)}`);
 console.log(`Y, Z: ${dot(Y, Z)}`);
+
+
